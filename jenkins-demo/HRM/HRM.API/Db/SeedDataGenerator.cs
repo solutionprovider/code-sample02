@@ -30,7 +30,7 @@ namespace HRM.API.Db
                     {
                         Name = "Muhammad Muneer",
                         Designation = "Software Engineer",
-                        FathersName = "Muhammad Muneer ",
+                        FathersName = "Muhammad Shafiq ",
                         MothersName = " ",
                         DateOfBirth = new DateTime(1990, 10, 29, 00, 00, 00)
                     },
