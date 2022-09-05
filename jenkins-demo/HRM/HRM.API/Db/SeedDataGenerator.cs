@@ -19,10 +19,10 @@ namespace HRM.API.Db
                 context.Employees.AddRange(
                     new Employee
                     {
-                        Name = "Md. Mahedee Hasan",
-                        Designation = "Head of Software Development",
-                        FathersName = "Yeasin Bhuiyan",
-                        MothersName = "Moriom Begum",
+                        Name = "Muhammad Bilal",
+                        Designation = "Software Development",
+                        FathersName = "Saeed Iqbal",
+                        MothersName = "",
                         DateOfBirth = new DateTime(1984, 12, 19, 00, 00, 00)
                     },
 
