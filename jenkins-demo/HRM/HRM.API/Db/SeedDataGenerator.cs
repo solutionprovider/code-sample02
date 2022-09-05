@@ -28,10 +28,10 @@ namespace HRM.API.Db
 
                     new Employee
                     {
-                        Name = "Khaleda Islam",
+                        Name = "Muhammad Muneer",
                         Designation = "Software Engineer",
-                        FathersName = "Shahidul Islam",
-                        MothersName = "Momtaz Begum",
+                        FathersName = " ",
+                        MothersName = " ",
                         DateOfBirth = new DateTime(1990, 10, 29, 00, 00, 00)
                     },
 
