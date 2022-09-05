@@ -2,6 +2,7 @@ using HRM.API.Db;
 using HRM.API.Repository;
 using HRM.API.Services;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
