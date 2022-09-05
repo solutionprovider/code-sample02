@@ -94,5 +94,20 @@ namespace HRM.API.Controllers
                 return BadRequest(exp.Message);
             }
         }
+
+        [HttpDelete("testing/{id}")]
+        public async Task<ActionResult> testing(int id)
+        {
+            try
+            {
+                string result = string.Empty;
+                result = await _employeeService.RemoveEmployee(id);
+                return Ok(result);
+            }
+            catch (Exception exp)
+            {
+                return BadRequest(exp.Message);
+            }
+        }
     }
 }
