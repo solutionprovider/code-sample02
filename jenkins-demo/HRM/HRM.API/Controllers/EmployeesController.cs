@@ -10,7 +10,7 @@ namespace HRM.API.Controllers
     public class EmployeesController : ControllerBase
     {
         private readonly IEmployeeService _employeeService;
-
+        // employee list
         public EmployeesController(IEmployeeService employeeService)
         {
             _employeeService = employeeService;
