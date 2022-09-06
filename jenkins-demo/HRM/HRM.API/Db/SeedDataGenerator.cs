@@ -28,9 +28,9 @@ namespace HRM.API.Db
 
                     new Employee
                     {
-                        Name = "Muhammad Muneer",
+                        Name = "Waqar ARIF",
                         Designation = "System Administrator",
-                        FathersName = "Muhammad Shafiq ",
+                        FathersName = " ",
                         MothersName = " ",
                         DateOfBirth = new DateTime(1990, 10, 29, 00, 00, 00)
                     },
