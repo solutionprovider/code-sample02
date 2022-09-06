@@ -28,7 +28,7 @@ namespace HRM.API.Db
 
                     new Employee
                     {
-                        Name = "Shahid",
+                        Name = "Ali Rafiq",
                         Designation = "System Administrator",
                         FathersName = " ",
                         MothersName = " ",
