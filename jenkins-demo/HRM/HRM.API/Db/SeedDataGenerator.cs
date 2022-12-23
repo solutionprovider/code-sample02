@@ -37,7 +37,7 @@ namespace HRM.API.Db
 
                     new Employee
                     {
-                        Name = "Tahiya Hasan Arisha",
+                        Name = "Tahiya Hasan Arishartrtr",
                         Designation = "Jr. Software Engineer",
                         FathersName = "Md. Mahedee Hasan",
                         MothersName = "Khaleda Islam",
